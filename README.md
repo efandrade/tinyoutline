@@ -1,6 +1,6 @@
 # tinyoutline
 
-This is a simple Chrome extension that takes the URL of your current page and creates a tinyurl for that URL. It then opens the URL with outline.com.
+This is a simple Chrome extension that takes the URL of your current page and creates a tinyurl for that URL. It then opens the tinyurl with outline.com.
 
 ## Installation
 
