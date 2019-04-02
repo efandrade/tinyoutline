@@ -11,7 +11,5 @@ chrome.browserAction.onClicked.addListener(function(tab) {
 
     chrome.tabs.update({url: outlineurl});
 
-    //chrome.tabs.create({url: outlineurl,"selected":true});
-    //alert(outlineurl);
 });
 
