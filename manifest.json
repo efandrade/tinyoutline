@@ -6,7 +6,7 @@
 
     "permissions": [
     "tabs",
-    "http://*/*"
+    "<all_urls>"
     ],
 
   "icons": {
